@@ -4,6 +4,6 @@ export const userData = {
   linkedinUser: "daniel-zarkos-carvalho",
   whatsappNumber: "+5522999070958",
   emailUser: "danielzarkos92@gmail.com",
-  instagramUser: "samuelleaoui",
+  instagramUser: "",
   facebookUser: "",
 };
